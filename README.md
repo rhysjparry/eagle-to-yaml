@@ -1,4 +1,6 @@
 # eagle-to-yaml
+![Screenshot 2024-05-23 at 21 43 23](https://github.com/rhysjparry/eagle-to-yaml/assets/6196105/0b088bd4-317f-4294-b23c-ac562df5befd)
+
 A custom eagle.cool plugin for converting image metadata into YAML to be used with a custom external system.
 
 ## Setup
