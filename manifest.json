@@ -1,0 +1,15 @@
+{
+    "id": "b8bca6a9-2105-4295-9e14-becfee8dde86",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "YAML Export",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": false,
+    "main": {
+        "url": "index.html",
+        "minWidth": 860,
+        "minHeight": 600
+    }
+}
